@@ -24,6 +24,7 @@ pip3 install -r requirements.txt
 В переменную **HOST** указываем url адрес хоста.    
 В переменную **SECRET_KEY** секретный ключ.
     
+*Пример заполнения .env файла*
 ```
 DEBUG=True
 PASSWORD=odsgsgsa23415
