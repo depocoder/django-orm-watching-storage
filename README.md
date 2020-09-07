@@ -23,13 +23,19 @@ pip3 install -r requirements.txt
 В переменную **PASSWORD** записываем пароль от БД.   
 В переменную **HOST** указываем url адрес хоста.    
 В переменную **SECRET_KEY** секретный ключ.
+В переменную **PORT** указываем порт.
+В переменную **NAME** указываем название.
+В переменную **USER** указываем имя пользователя.
     
 **Пример заполнения ".env" файла.**
 ```
 DEBUG=True
-PASSWORD=odsgsgsa23415
-HOST=dvmn.org
+PASSWORD=somepassword
+HOST=checkpoint.devman.org
 SECRET_KEY=dgdsfjsldfs
+PORT=5434
+NAME=po1nt
+USER=admin
 ```    
 
 ## Запуск кода.  
