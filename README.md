@@ -14,7 +14,7 @@ pip3 install virtualenv
 python3 -m venv env
 source env/bin/activate
 ```
-**Установить библиотеки командой. ** 
+**Установить библиотеки командой.** 
 ```
 pip3 install -r requirements.txt  
 ``` 
