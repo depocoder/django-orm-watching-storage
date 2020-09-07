@@ -25,7 +25,7 @@ pip3 install -r requirements.txt
 В переменную **SECRET_KEY** секретный ключ.
 В переменную **PORT** указываем порт.
 В переменную **NAME** указываем название.
-В переменную **USER** указываем имя пользователя.
+В переменную **SERVER_USER** указываем имя пользователя.
     
 **Пример заполнения ".env" файла.**
 ```
@@ -35,7 +35,7 @@ HOST=checkpoint.devman.org
 SECRET_KEY=dgdsfjsldfs
 PORT=5434
 NAME=po1nt
-USER=admin
+SERVER_USER=admin
 ```    
 
 ## Запуск кода.  
